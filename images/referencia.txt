@@ -1,2 +1,5 @@
 lobo = https://upload.wikimedia.org/wikipedia/commons/0/07/Canis_lupus_laying.jpg
 xícara = https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/A_small_cup_of_coffee.JPG/640px-A_small_cup_of_coffee.JPG
+cabana = https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Fishing_hut%2C_jetties_and_boats_in_Loddebo.jpg/640px-Fishing_hut%2C_jetties_and_boats_in_Loddebo.jpg
+floresta = https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Beskid_Ma%C5%82y_Mountains_%28PL%29.jpg/640px-Beskid_Ma%C5%82y_Mountains_%28PL%29.jpg
+mansao = https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Ferndale_CA_Gingerbread_Mansion_4.jpg/640px-Ferndale_CA_Gingerbread_Mansion_4.jpg
