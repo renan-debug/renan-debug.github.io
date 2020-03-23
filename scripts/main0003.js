@@ -5,8 +5,10 @@ document.querySelector("#mansao").onclick = function() {
 		alert('Você ganhou!! Isso sim é uma cabana!!');
 		resetar();
 	}
-    alert('Isso definitivamente não é uma cabana. Você perdeu.');
-	resetar();
+    else{
+		alert('Isso definitivamente não é uma cabana. Você perdeu.');
+		resetar();
+	}
 }
 document.querySelector("#floresta").onclick = function() {
 	if(lugar === 1 || lugar === 2){
