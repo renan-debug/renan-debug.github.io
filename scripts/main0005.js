@@ -1,7 +1,7 @@
 var msgTela = [
 	'Essa é a história de um homem que descobriu o sentido da vida.',
 	'Adônis era um agricultor que vivia com sua família em uma região afastada da capital do império em que vivia.',
-	'Um céu sem nuvens permitia que o dourado do trigo brilhasse de modo exepcional.',
+	'Um céu sem nuvens permitia que o dourado do trigo brilhasse de modo excepcional.',
 	'Mas naquele dia. O acaso repousou os olhos sobre o destino de Adônis.',
 	'Um mensageiro trazia a convocação. Adônis iria para a guerra.',
 	'Se uniu às forças do império para enfrentar a ameaça de uma nova potência que almejava tomar as terras do leste.',
