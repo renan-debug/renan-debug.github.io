@@ -2,22 +2,22 @@ var msgTela = [
 	'Essa é a história de um homem que descobriu o sentido da vida.',
 	'Adônis era um agricultor que vivia com sua família em uma região afastada da capital do império em que vivia.',
 	'Um céu sem nuvens permitia que o dourado do trigo brilhasse de modo excepcional.',
-	'Mas naquele dia. O acaso repousou os olhos sobre o destino de Adônis.',
+	'Mas naquele dia. O acaso pousou sobre o destino de Adônis.',
 	'Um mensageiro trazia a convocação. Adônis iria para a guerra.',
 	'Se uniu às forças do império para enfrentar a ameaça de uma nova potência que almejava tomar as terras do leste.',
 	'Em alguns poucos meses, estava familiarizado com seu novo modo de viver, partiu para a primeira batalha.',
 	'Do outro lado do campo, as forças do inimigo se preparam para aniquilar as do império.',
 	'O terror do fim súbito consome Adônis, mas não há para onde fugir.',
 	'Pensou em sua família, como fazia constantemente desde que foi convocado.',
-	'Dessa vez, exposto a morte eminente. Como se a sabedoria finalmente encontrasse seu lugar no espírito de Adônis.',
+	'Dessa vez, exposto a morte eminente. Como se o espírito de Adônis se iluminasse.',
 	'Percebeu finalmente que não iria permitir que sua vida chegasse ao fim alí, sua família esperava em casa, ele precisava voltar.',
 	'Lutou então bravamente essa e muitas outras batalhas. Três longos anos e a guerra terminou com a vitória do império.',
 	'O acaso acompanhou todas as batalhas. Adônis pôde regressar vivo, muitos amigos não.',
-	'Voltando para a sua terra, Adônis foi recebido com abraços e lágrimas.',
-	'Nunca mais seria o mesmo. A experiência mostrava que a imagem que representa a guerra é a dança do acaso e da morte.',
-	'Contrariou a segunda com o auxílio do primeiro.',
-	'Daqui para frente, jamais permitiria que, estando em suas mãos, ele morreria.',
-	'Só por eles.'];
+	'Voltando para a sua casa, Adônis foi recebido com abraços e lágrimas.',
+	'Nunca mais seria o mesmo. A guerra fere o corpo, a mente e a emoção.',
+	'Adônis, o agricultor agora soldado ferido.',
+	'Carrega as marcas da guerra em sí. Hoje mais determinado que nunca, luta pela vida.',
+	'Pela família que ele ama.'];
 
 var tempoTrans = 4200;
 
